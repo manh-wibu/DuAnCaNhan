@@ -1,0 +1,22 @@
+# ========== UNITY ==========
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# ========== VISUAL STUDIO ==========
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.svd
+
+# ========== OTHERS ==========
+obj/
+*.log
